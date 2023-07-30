@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width=400 src="https://miro.medium.com/v2/resize:fit:1400/1*LEH5tUEQReWe8Iu-UEV3Pg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit314-hub&label=Profile%20views&color=0e75b6&style=flat" alt="mohit314-hub" /> </p>
 
